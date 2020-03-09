@@ -1,0 +1,7 @@
+
+::::::::::  TAREFAS::::::::
+
+1 - Linkar todas as páginas internas com a página inicial entre si.
+2 - Para as páginas de cursos a estilização deve ser apenas do arquivo estilo.css.
+3 - As páginas não podem conter links para si própria.
+

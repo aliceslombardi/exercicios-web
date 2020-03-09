@@ -1,0 +1,39 @@
+
+
+#container{
+  margin-left:10%;
+  margin-right:10%;
+  height:600px;
+  font-family:"Times New Roman", "Verdana", serif;
+  background-color:#000000;
+}
+
+a{
+  color: blue;
+  font-size: 25px;
+  font-family:"arial", "Times new roman";
+  text-shadow:#111111;
+}
+
+#menu{
+  font-family:"Calibri";
+  background-color:#000000;
+  color:white;
+  font-weight:bold;
+  font-size:2em;
+}
+
+#img{
+  text-align: center;
+}
+
+#hist{
+	color:white;
+	font-size: 25px;
+	font-family:"arial", "Times new roman";
+	text-shadow:#111111;
+}
+
+body{
+	background-color:#000000;
+}
